@@ -1,0 +1,8 @@
+# Project Settings
+mysite/mysite/settings.py
+# environment
+venv
+# database
+mysite/db.sqlite3
+# vsc
+project-blog.code-workspace
